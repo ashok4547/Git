@@ -17,7 +17,7 @@ Results-driven Data Engineer with extensive hands-on experience in designing, bu
 | **Data Integration & ETL/ELT** | Azure Data Factory (ADF), Azure Data Factory Mapping Data Flows, Azure Data Factory Data Flow Debugging, Azure Data Factory Managed Virtual Network, Azure Data Factory Integration Runtime (Self-Hosted & Azure IR) |
 | **Big Data & Processing** | Azure Databricks (Apache Spark), Azure HDInsight (Hadoop, Spark, Hive, Kafka, HBase), Azure Synapse Analytics (Synapse Spark Pools, Synapse SQL Pools, Synapse Pipelines, Synapse Serverless SQL, Synapse Link), Azure Stream Analytics |
 | **Data Storage** | Azure Data Lake Storage Gen2 (ADLS Gen2), Azure Blob Storage, Azure SQL Database, Azure SQL Managed Instance, Azure Cosmos DB, Azure Table Storage, Azure Files |
-| **Data Warehousing** | Azure Synapse Analytics (Dedicated SQL Pool), Azure SQL Data Warehouse (legacy), Azure Synapse Serverless SQL Pool |
+| **Data Warehousing** | Azure Synapse Analytics (Dedicated SQL Pool), Azure Synapse Serverless SQL Pool |
 | **Messaging & Streaming** | Azure Event Hubs, Azure IoT Hub, Azure Service Bus, Apache Kafka on Azure HDInsight, Azure Event Grid |
 | **Data Governance & Catalog** | Microsoft Purview (Azure Purview), Microsoft Purview Data Map, Microsoft Purview Data Catalog, Microsoft Purview Data Estate Insights, Microsoft Purview Data Lineage |
 | **Machine Learning & AI** | Azure Machine Learning, Azure Cognitive Services, Azure OpenAI Service, Azure AI Search (formerly Cognitive Search) |
@@ -100,7 +100,7 @@ Results-driven Data Engineer with extensive hands-on experience in designing, bu
 
 ## Education
 
-**Bachelor of Technology (B.Tech) / Master's Degree**
+**Bachelor of Technology (B.Tech) in Computer Science & Engineering**
 *University Name* | *Year of Graduation*
 
 ---
